@@ -2,7 +2,7 @@
 
 Es una aplicación web local, construida con Python y Streamlit, para descargar uno o varios videos de TikTok mediante `yt-dlp` y reunir las descargas exitosas en un archivo ZIP.
 
-## Estado actual
+## Estado actual 17 de septiembre 2026 5:45 am 
 
 El proyecto está en una etapa de prototipo.
 
